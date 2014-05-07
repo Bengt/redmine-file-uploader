@@ -17,7 +17,7 @@ Tested using ...:
 
 Installing dependencies
 
-    $ sudo pip install requirements.txt
+    $ pip install --user -r requirements.txt
 
 HELP
 Usage of the tool is explained by invoking it with --help, i.e.:
